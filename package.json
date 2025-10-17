@@ -1,0 +1,21 @@
+{
+  "name": "pre-entrega-nagy",
+  "version": "1.0.0",
+  "description": "Pre-Entrega de Proyecto - NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OzcarFX/pre-entrea-nagy.git"
+  },
+  "keywords": [],
+  "author": "Oscar H. M. Nagy",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/OzcarFX/pre-entrea-nagy/issues"
+  },
+  "homepage": "https://github.com/OzcarFX/pre-entrea-nagy#readme"
+}
