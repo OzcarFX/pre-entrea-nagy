@@ -2,7 +2,7 @@ let [, , method, resource, ...params] = process.argv;
 // Tips de desarrollo: 
 //Usa process.argv para capturar.
 //procesar los comandos ingresados yAprovecha el uso de destructuring y spread para manipular los datos.
-// Uso de spread operator 
+// Uso de spread operator. 
 
 method = method.toUpperCase();
 resource = resource.toLowerCase();
